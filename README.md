@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thanhpsc-95
-- 👀 I’m interested in travel, listeb music
+- 👀 I’m interested in travel, listen to music
 - 🌱 I’m currently learning to become a Fullstack Developer
 - 💞️ I’m looking to collaborate on ReactJs, Dotnet Core, Asp.Net, SQL server, NodeJS
 - 📫 How to reach me ...
